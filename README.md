@@ -2,8 +2,6 @@
 
 **Data & Cloud Engineer** · Barcelona, Spain · 3 years of experience
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rubenjcano&color=0078D4&style=flat)
-
 ---
 
 ## About me
