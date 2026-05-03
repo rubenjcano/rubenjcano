@@ -138,7 +138,7 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
 | [python](https://github.com/rubenjcano/python) | Learning Python — core concepts, data engineering, projects and exercises |
 | [ai-agentic-ai](https://github.com/rubenjcano/ai-agentic-ai) | Exploring AI fundamentals, LLMs, prompt engineering and agentic systems |
 | [cheat-sheets](https://github.com/rubenjcano/cheat-sheets) | Quick reference guides for Git, SQL, Bash, Azure CLI, PySpark and more |
-| [Apache-Spark-Guide](https://github.com/rubenjcano/Apache-Spark-Guide) | Comprehensive Apache Spark guide — architecture, PySpark, SQL, streaming, MLlib |
+| [Apache-Spark-Guide](https://github.com/rubenjcano/apache-spark) | Comprehensive Apache Spark guide — architecture, PySpark, SQL, streaming, MLlib |
 
 ---
 
