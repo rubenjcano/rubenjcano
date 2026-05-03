@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Ruben Jimenez Cano
+# 👋 Hi, I'm Ruben Jiménez
 
 **Data & Cloud Engineer** · Barcelona, Spain · 3 years of experience
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rubenjcano&color=0078D4&style=flat)
 
 ---
 
@@ -38,7 +40,7 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
 
 ## 🏅 Certifications
 
-### Microsoft
+### <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="20" height="20"/> Microsoft Azure
 
 <table>
   <tr>
@@ -81,7 +83,7 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
   </tr>
 </table>
 
-### Google Cloud
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="20" height="20"/> Google Cloud Platform
 
 <table>
   <tr>
@@ -135,6 +137,8 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
 | [microsoft-azure](https://github.com/rubenjcano/microsoft-azure) | Notes and learning paths for Azure certifications (AZ-900, DP-900, AI-900, DP-203, DP-700) |
 | [python](https://github.com/rubenjcano/python) | Learning Python — core concepts, data engineering, projects and exercises |
 | [ai-agentic-ai](https://github.com/rubenjcano/ai-agentic-ai) | Exploring AI fundamentals, LLMs, prompt engineering and agentic systems |
+| [cheat-sheets](https://github.com/rubenjcano/cheat-sheets) | Quick reference guides for Git, SQL, Bash, Azure CLI, PySpark and more |
+| [Apache-Spark-Guide](https://github.com/rubenjcano/Apache-Spark-Guide) | Comprehensive Apache Spark guide — architecture, PySpark, SQL, streaming, MLlib |
 
 ---
 
