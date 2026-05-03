@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ruben Jiménez
+# 👋 Hi, I'm Ruben Jimenez Cano
 
 **Data & Cloud Engineer** · Barcelona, Spain · 3 years of experience
 
