@@ -112,10 +112,9 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://readme-stats.clxit.com/api?username=rubenjcano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ruben's GitHub Stats" height="170"/>
-  <img src="https://readme-stats.clxit.com/api/top-langs/?username=rubenjcano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+![Stars](https://img.shields.io/github/stars/rubenjcano?style=flat&logo=github&label=Stars&color=0078D4)
+![Followers](https://img.shields.io/github/followers/rubenjcano?style=flat&logo=github&label=Followers&color=0078D4)
+![Profile Views](https://komarev.com/ghpvc/?username=rubenjcano&color=0078D4&style=flat&label=Profile+Views)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rubenjcano&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -123,6 +122,10 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rubenjcano&theme=tokyonight&row=1&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubenjcano&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
