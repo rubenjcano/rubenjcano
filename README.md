@@ -113,8 +113,8 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats.as93.net/rubenjcano" alt="Ruben's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenjcano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://readme-stats.clxit.com/api?username=rubenjcano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ruben's GitHub Stats" height="170"/>
+  <img src="https://readme-stats.clxit.com/api/top-langs/?username=rubenjcano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
