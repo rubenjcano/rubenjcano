@@ -110,9 +110,7 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
 
 ### Other
 
-- **MongoDB SI Associate** · April 2026
-
-<img src="MongoDB SI Associate Certification.png" width="480" alt="MongoDB SI Associate Certificate"/>
+- **[MongoDB SI Associate](MongoDB%20SI%20Associate%20Certification.png)** · April 2026
 
 ---
 
