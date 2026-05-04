@@ -64,7 +64,7 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
     </td>
     <td align="center" width="150">
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/JimenezCanoRuben-1109/F7BF29A965CDE0E6?sharingId=981A3982ECB15A32">
-        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="80" alt="Azure AI Fundamentals"/><br/>
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80" alt="Azure AI Fundamentals"/><br/>
         <sub><b>Azure AI Fundamentals</b></sub>
       </a>
     </td>
@@ -107,6 +107,12 @@ Focused on leveraging advanced cloud solutions to drive innovation and support d
     </td>
   </tr>
 </table>
+
+### Other
+
+- **MongoDB SI Associate** · April 2026
+
+<img src="MongoDB SI Associate Certification.png" width="480" alt="MongoDB SI Associate Certificate"/>
 
 ---
 
